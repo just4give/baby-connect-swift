@@ -1,0 +1,184 @@
+
+[
+ {
+     "id": 100,
+     "name":"greet",
+     "description":"Emotion",
+     "icon":"feedback",
+     "frames":"255,255,255,255",
+     "cards": [
+         {
+             "id": 101,
+             "name":"hungry",
+             "description":"Hungry",
+             "icon":"drool",
+             "level":1,
+             "frames":"50,255,0,0"
+         },
+         {
+             "id": 101,
+             "name":"angry",
+             "description":"Angry",
+             "icon":"angry",
+             "level":2,
+             "frames":"50,255,255,0"
+         },
+         {
+             "id": 101,
+             "name":"happy",
+             "description":"Happy",
+             "icon":"happy",
+             "level":2,
+             "frames":"255,50,255,0"
+         },
+         {
+             "id": 101,
+             "name":"sad",
+             "description":"Sad",
+             "icon":"sad",
+             "level":2,
+             "frames":"255,50,50,0"
+         }
+     ]
+ },
+ {
+     "id": 500,
+     "name":"action",
+     "description":"Action",
+     "icon":"behavior",
+     "cards":[
+         {
+             "id": 101,
+             "name":"yes",
+             "description":"Yes",
+             "icon":"yes",
+             "level":1,
+             "frames":"50,0,0,0"
+         },
+         {
+             "id": 102,
+             "name":"no",
+             "description":"No",
+             "icon":"say-no",
+             "level":1,
+             "frames":"255,0,0,0"
+         },
+         {
+             "id": 102,
+             "name":"like",
+             "description":"Like",
+             "icon":"like",
+             "level":2,
+             "frames":"50,50,255,0"
+         },
+         {
+             "id": 102,
+             "name":"dislike",
+             "description":"Dislike",
+             "icon":"dislike",
+             "level":2,
+             "frames":"50,255,50,0"
+         },
+         {
+             "id": 102,
+             "name":"thankyou",
+             "description":"Thank You",
+             "icon":"thank-you",
+             "level":2,
+             "frames":"50,50,50,0"
+         }
+     ]
+ },
+ {
+     "id": 200,
+     "name":"activity",
+     "description":"Daily Activity",
+     "icon":"teeth-brushing",
+     "cards": [
+         {
+             "id": 101,
+             "name":"brush",
+             "description":"Tooth Brush",
+             "icon":"teeth-brushing"
+         },
+         {
+             "id": 102,
+             "name":"toilet",
+             "description":"Toilet",
+             "icon":"toilet",
+             "level":1,
+             "frames":"50,50,0,0"
+         },
+         {
+             "id": 103,
+             "name":"play",
+             "description":"Play",
+             "icon":"playtime",
+             "level":1,
+             "frames":"255,50,0,0"
+         },
+         {
+             "id": 103,
+             "name":"sleep",
+             "description":"Sleep",
+             "icon":"sleeping",
+             "level":2,
+             "frames":"255,255,50,0"
+         }
+     ]
+ },
+ {
+     "id": 300,
+     "name":"food",
+     "description":"Food",
+     "icon":"food-tray",
+     "cards":[
+         
+         {
+             "id": 103,
+             "name":"water",
+             "description":"Water",
+             "icon":"water",
+             "level":2,
+             "frames":"255,255,255,0"
+         }
+     ]
+ },
+ {
+     "id": 400,
+     "name":"fun",
+     "description":"Fun",
+     "icon":"playground",
+     "cards":[]
+ },
+ {
+     "id": 500,
+     "name":"Emergency",
+     "description":"Emergency",
+     "icon":"alarm",
+     "cards":[
+         {
+             "id": 102,
+             "name":"help",
+             "description":"Help",
+             "icon":"reception-bell",
+             "level":1,
+             "frames":"255,255,0,0"
+         }
+     ]
+ },
+ {
+     "id": 600,
+     "name":"School",
+     "description":"School",
+     "icon":"draw",
+     "cards":[]
+ },
+ {
+     "id": 500,
+     "name":"Household",
+     "description":"Household",
+     "icon":"house",
+     "cards":[]
+ }
+]
